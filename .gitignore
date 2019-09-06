@@ -1,0 +1,268 @@
+LifeOfTeam/ProjectSettings/UnityConnectSettings.asset
+LifeOfTeam/ProjectSettings/TimeManager.asset
+LifeOfTeam/ProjectSettings/TagManager.asset
+LifeOfTeam/ProjectSettings/QualitySettings.asset
+LifeOfTeam/ProjectSettings/ProjectVersion.txt
+#For Mac developers
+ # Unity generated #
+ # =============== #
+LifeOfTeam/Temp/
+LifeOfTeam/obj/
+LifeOfTeam/Build
+LifeOfTeam/Library/
+LifeOfTeam/Library/metadata
+  
+ 
+     # ===================================== #
+     # Visual Studio / MonoDevelop generated #
+     # ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.orig
+*.app
+*.exe
+*.*_data
+     
+Build/iOS
+Build/android
+     
+*.[od]
+     
+     # ============ #
+     # OS generated #
+     # ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+
+LifeOfTeam/.vs/LifeOfTeam/v15/Server/
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/panel_start_slices.jpg.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/panel_start_slices.jpg
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/icons_slices.jpg.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/icons_slices.jpg
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/gui_elements_slices.jpg.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/gui_elements_slices.jpg
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/text_sep_big.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/text_sep_big.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/text_background_big.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/text_background_big.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/scrollbar.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/reward_stars_empty.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/reward_stars_empty.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/reward_stars_3.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/reward_stars_3.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/reward_stars_2.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/reward_stars_2.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/reward_stars_1.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/reward_stars_1.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/reward_slots.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/reward_slots.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/reward_slot_info.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/reward_slot_info.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/panel_top_ribbon.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/panel_top_ribbon.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/panel_top.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/panel_top.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/panel_start.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/panel_start.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/panel.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/panel.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_star_single_right.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_star_single_right.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_star_single_left.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_star_single_left.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_star_single_center.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_star_single_center.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_star.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_shovel.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_shovel.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_paperclip.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_paperclip.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_lemon.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_lemon.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_heart.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_heart.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_green_back.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_green_back.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_flower.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_flower.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_diamond.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_diamond.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_cup.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_cup.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_cup-16.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_cup-16.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_cryon.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_cryon.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_coins.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_coins.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_cherries.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_cherries.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_candy.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_candy.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/flat_icon_info.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/flat_icon_info.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/flat_icon_fcb.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/flat_icon_fcb.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/flat_icon_close.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/flat_icon_close.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/flat_icon_check.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/flat_icon_check.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/flat_icon_back.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/flat_icon_back.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/cursor_up.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/cursor_up.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/cursor_right.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/cursor_right.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/cursor_left.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/cursor_left.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/cursor_down.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/counter.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/counter.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_round_small_pressed.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_round_small_pressed.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_round_small_hover.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_round_small_hover.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_round_small.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_round_small.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_round_big_pressed.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_round_big_pressed.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_round_big_hover.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_round_big_hover.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_round_big.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_round_big.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_big_pressed.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_big_pressed.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_big_hover.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_big_hover.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_big.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_big.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_-_reg.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_-_reg.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_-_pressed.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_-_pressed.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_-_hov.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_-_hov.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_+_reg.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_+_reg.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_+_pressed.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_+_pressed.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_+_hov.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/btn_+_hov.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/achiev_stat_que.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/achiev_stat_que.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/achiev_stat_fail.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/achiev_stat_fail.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/achiev_stat_done.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/achiev_stat_done.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/achiev_box_pressed.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/achiev_box_pressed.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/achiev_box_hover.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/achiev_box_hover.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/achiev_box.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/achiev_box.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/panel_start_slices.psd.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/panel_start_slices.psd
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/icons_slices.psd.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/icons_slices.psd
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/gui_elements_slices.psd.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/gui_elements_slices.psd
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/store_block_pressed.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/store_block_pressed.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/store_block_hover.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/store_block_hover.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/store_block_coins.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/store_block_coins.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/store_block.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/store_block.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/start_top_logo_sample.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/start_top_logo_sample.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/slider_pointer.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/slider_pointer.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/slider_blue.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/slider_blue.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/slider.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/slider.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/settings_checkbox_on.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/settings_checkbox_on.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/settings_checkbox_lock.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/settings_checkbox_lock.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/settings_checkbox.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/settings_checkbox.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/settings_box.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/settings_box.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/scrollbar_pointer.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/scrollbar_pointer.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/scrollbar.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_star_3.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_star_3.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_star_2.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_star_2.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_star_1.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_star_1.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_lock_block_pressed.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_lock_block_pressed.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_lock_block_hover.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_lock_block_hover.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_lock_block.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_lock_block.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_block_pressed.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_block_pressed.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_block_hover.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_block_hover.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_block.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/lvl_block.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/item_slot_hover.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/item_slot_hover.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/item_slot.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/item_slot.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_sword.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_sword.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_strawberry.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_strawberry.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_star.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_button.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_button.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_bomb.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_bomb.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_blue_back.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_blue_back.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_bg_green.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_bg_green.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_bg_blue.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_bg_blue.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_balloon.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_balloon.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_ball.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_ball.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_apple.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/icon_apple.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/flat_icon_twitter.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/flat_icon_twitter.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/flat_icon_question.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/flat_icon_question.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/flat_icon_play.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/flat_icon_play.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/flat_icon_menu.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/flat_icon_menu.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/flat_icon_lock.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/flat_icon_lock.png
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/preview/_all_slices/cursor_down.png.meta
+LifeOfTeam/Assets/GameObjects/HONETi/mobile_cartoon_GUI/psd files/
+LifeOfTeam/.vs/LifeOfTeam/v15/Server/
